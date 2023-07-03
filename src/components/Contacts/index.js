@@ -5,8 +5,8 @@ import Form from "./Form";
 function Contacts() {
   return (
     <div>
-      
       <List />
+      <Form />
     </div>
   );
 }

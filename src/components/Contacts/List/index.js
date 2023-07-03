@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function List() {
-  return (
-    <div>
-      Contact List
-    </div>
-  )
+  return <div>Contact List</div>;
 }
 
-export default List
+export default List;
